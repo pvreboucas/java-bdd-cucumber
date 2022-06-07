@@ -1,6 +1,6 @@
 # Curso de BDD e Java: Behavior Driven Development com Cucumber
 
-[Curso de Behavior Driven Development(BDD) com Cucumber de Testes Web/Alura](https://cursos.alura.com.br/course/chrome-devtools)
+[Curso de Behavior Driven Development(BDD) com Cucumber de Testes Web/Alura](https://cursos.alura.com.br/course/bdd-cucumber-java)
 
 [<< CURSO ANTERIOR](https://github.com/pvreboucas/chrome-devtools)
 
